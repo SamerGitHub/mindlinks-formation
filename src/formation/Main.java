@@ -10,7 +10,7 @@ public class Main {
 		System.out.print("Hello Gpro Consulting !");
 
 		System.out.print("Hello world!");
-		System.out.print("MindLinks");
+		System.out.print("Mind-Links   ");
 		//test
 		
 	   //add msg in branch dev
