@@ -11,6 +11,7 @@ public class Main {
 
 		System.out.print("Hello world!");
 		System.out.print("MindLinks");
+		System.out.print("Hello Gpro Consulting !");
 
 
 	}
