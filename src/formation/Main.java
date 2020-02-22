@@ -7,6 +7,8 @@ public class Main {
 		
 		
 		System.out.print("Hello world!");
+		Class1 c1=new Class1(3);
+		c1.increment(5);
 
 	}
 
